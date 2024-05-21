@@ -2,7 +2,7 @@
 
 实例展示：
 ![login](https://github.com/cokeSEE1/Vue2_frontDesk_management_System/assets/166229523/83474099-4869-4d87-8683-ea7be09f1b5b)
-![registe](https://github.com/cokeSEE1/Vue2_frontDesk_management_System/assets/166229523/9306a695-9705-4a74-98b8-9a29f7e45498)
+![register](https://github.com/cokeSEE1/Vue2_frontDesk_management_System/assets/166229523/c2226de7-c233-4a5c-a324-5d5a30f8d766)
 ![home1](https://github.com/cokeSEE1/Vue2_frontDesk_management_System/assets/166229523/aaea987a-039d-4746-adad-2a1673e0a0c0)
 ![home2](https://github.com/cokeSEE1/Vue2_frontDesk_management_System/assets/166229523/dd66adb9-94ae-460d-94a7-ac37b11432cf)
 ![home3](https://github.com/cokeSEE1/Vue2_frontDesk_management_System/assets/166229523/9c781cae-f9d4-4087-847a-e6588d53e764)
